@@ -2,7 +2,7 @@
 
 ### Who Am I?
 
-Software Developer. Sports fan. Animation enthusiast.
+Software Developer. Sports fan. Learning enthusiast.
 
 I like getting things done by that I mean concrete things, something that I can point to when asked what I have been doing all afternoon. I dislike basically anything that gets in the way of that. I work hard and want to be proud of what I produce. 
 
