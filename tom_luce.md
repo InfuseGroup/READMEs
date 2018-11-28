@@ -45,6 +45,7 @@ I dont't want to micromanage. I want you to make your own decisions and be good 
 
 I have two personally attributable quotations:
 > "I write perfect code, first time, every time." 
+
 > "I don't care if it's shit, as long as its consistently shit" 
 
 The first is some self satire, that latter describes my preference for reusable components over a million bespoke ones.
