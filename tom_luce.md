@@ -39,7 +39,7 @@ In short, that they're great at what they do, and that they're respectful.  Resp
 - **Dark UI design**.  My life goals involve buying a server farm that's capable of executing denial of service attacks on those websites that serve me up invasive modals asking me to subscribe to their shitty newsletter.
 
 ## Things to know
-I try and manage by having discussions, explaining the why between things, communicaing well, and making reasoned, evidence based decisions.  I do this because I don't ever want to have to tell someone to explcitly do something.
+I try and manage by having discussions, explaining the 'why' behind things, communicating well, and making reasoned, evidence based decisions.  I do this because I don't ever want to have to tell someone to explcitly do something.
 
 I dont't want to micromanage. I want you to make your own decisions and be good enough at what you do that they're mostly the right ones.
 
